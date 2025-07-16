@@ -1,0 +1,21 @@
+{
+  "name": "node-cli",
+  "version": "1.0.0",
+  "description": "A simple Node.js CLI project with math operations and GitHub Actions CI",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "node",
+    "cli",
+    "math",
+    "jest"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "type": "commonjs"
+}
